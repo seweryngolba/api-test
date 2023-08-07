@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.kitcont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 500px;
+  background: aqua;
+}
+
+.cat-img {
+  height: 450px;
+  width: 450px;
+}
